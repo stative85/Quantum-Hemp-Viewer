@@ -1,0 +1,5 @@
+{
+  "name": "Quantum-Hemp Repository Viewer",
+  "description": "An interactive web application to visualize the file structure and content of the Quantum-Hemp Grant project repository. It provides a clean, GitHub-like interface for browsing project documentation, models, and data.",
+  "requestFramePermissions": []
+}
